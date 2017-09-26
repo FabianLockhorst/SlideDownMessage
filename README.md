@@ -3,6 +3,13 @@
 
 A Simple slide down message for android to notify the user that for example the app is currently connecting.
 
+# Examples
+* <a href="https://thumbs.gfycat.com/WarpedDimGreyhounddog-size_restricted.gif" target="_blank">Short</a>
+* <a href="https://thumbs.gfycat.com/HighlevelResponsibleInchworm-size_restricted.gif" target="_blank">Long</a>
+* <a href="https://thumbs.gfycat.com/AromaticMildBillygoat-size_restricted.gif" target="_blank">Show/Hide</a>
+
+[Example code](https://github.com/FabianLockhorst/SlideDownMessage/blob/master/app/src/main/java/com/fabianlockhorst/slidedownmessage/MainActivity.java)
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -61,6 +68,7 @@ If LENGTH_INDEFINITELY is set you must keep a refrence of the SlideDownMessage t
 ```
 
 If you want to customize the layout in any way you can retrieve the view using the getView() method
+<a href="https://thumbs.gfycat.com/JoyfulSlushyAustraliancattledog-size_restricted.gif" target="_blank">Like here</a>
 ```java
 //change background color to colorPrimary
 SlideDownMessage message;
