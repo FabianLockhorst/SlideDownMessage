@@ -24,4 +24,4 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
--keep class com.fabianlockhorst.sdm.**
+-keep public class com.fabianlockhorst.sdm {*;}
